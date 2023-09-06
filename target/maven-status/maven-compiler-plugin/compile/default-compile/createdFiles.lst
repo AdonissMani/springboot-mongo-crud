@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/Movie.class
+com/example/demo/MovieController.class
+com/example/demo/MovieRepository.class
+com/example/demo/Review.class
+com/example/demo/MovieService.class
